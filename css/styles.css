@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: white;
+       
+    }
+body{
+    background-color:blue 
+    
+}    
+
+section{
+    color: white;
+    
+}  
+img {
+width: 200px;
+height: 200px;
+}
+
+section{
+    display: inline-block;
+
+}
+h2{
+    text-decoration: underline;
+}
+blockquote{
+    font-style: italic;
+}
+form{
+    background-color: lightgray;
+}
